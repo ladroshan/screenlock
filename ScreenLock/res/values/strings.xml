@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenLock</string>
+    <string name="admin_explain">ScreenLock needs these rights to lock the screen.</string>
+</resources>

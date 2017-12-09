@@ -1,0 +1,14 @@
+Powerkey is hard to press?
+No Problem! - Here is ScreenLock!
+ScreenLock. Lock your phone with style!
+
+This is a 7-Days trial Version of ScreenLock.
+The full Version is named "ScreenLock Pro"
+
+This is a Widget which locks your screen by tapping on it. But with this widget you can also lock and unlock the screen by simply shaking the device! So if your powerkey on the device is broken, it doesn't work properly or you just don't want your powerkey to wear off, this is the right thing fo you!
+
+Caution!
+Before you can uninstall the widget, you have to go to: "Settings->Security->Select device administrators->ScreenLock Light" and click "Deactivate".
+
+Enjoy!
+Onno
